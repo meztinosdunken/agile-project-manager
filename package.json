@@ -9,12 +9,12 @@
   },
   "dependencies": {
     "express": "^4.18.2",
-    "mongoose": "^5.10.9",
+    "mongoose": "^5.10.12",
     "cors": "^2.8.5",
-    "dotenv": "^8.2.0"
+    "dotenv": "^10.0.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.7"
   },
   "repository": {
     "type": "git",
