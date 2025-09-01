@@ -9,6 +9,9 @@ Thank you for your interest in contributing to Agile Project Manager! Here are s
 4. Write tests for your new feature or fix, if applicable.
 5. Submit a pull request describing your changes.
 
+## Issue Templates
+If you need assistance opening an issue or creating a template, please refer to our issue templates in the repository.
+
 ## Coding Standards
 - Follow the project's coding style.
 - Keep your commits clear and concise.
