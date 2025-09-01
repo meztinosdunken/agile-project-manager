@@ -21,7 +21,7 @@
     "url": "git+https://github.com/yourusername/agile-project-manager.git"
   },
   "keywords": ["agile", "project management", "web application"],
-  "author": "Your Name",
+  "author": "John Doe",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yourusername/agile-project-manager/issues"
