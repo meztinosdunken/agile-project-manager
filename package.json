@@ -1,0 +1,30 @@
+{
+  "name": "agile-project-manager",
+  "version": "1.0.0",
+  "description": "A web application for managing agile projects.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/agile-project-manager.git"
+  },
+  "keywords": ["agile", "project management", "web application"],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/agile-project-manager/issues"
+  },
+  "homepage": "https://github.com/yourusername/agile-project-manager#readme"
+}
