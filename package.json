@@ -1,7 +1,7 @@
 {
   "name": "agile-project-manager",
   "version": "1.0.0",
-  "description": "A web application for managing agile projects.",
+  "description": "A web application designed to facilitate and manage agile project workflows.",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
